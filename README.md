@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm Bernardo Amaral a.k.a. NightShade
 
+- 🔭 I’m currently working with NodeJs
+- 🌱 I’m currently learning Flutter/Dart
+
+- ⚡ Fun fact: I'm huge X-Files and Jurassic Park fan
 <!--
 **bernardo-amaral/bernardo-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
