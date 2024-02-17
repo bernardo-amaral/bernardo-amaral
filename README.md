@@ -1,8 +1,9 @@
 ### Hi there 👋
 I'm Bernardo Amaral a.k.a. NightShade
 
-- 🔭 I’m currently working with NodeJs
-- 🌱 I’m currently learning Flutter/Dart
+- 📫 Software engineer
+- 🔭 I’m currently working with NodeJs and Flutter
+- 💬 Web and hybrid Android/iOS apps
 
 - ⚡ Fun fact: I'm huge X-Files and Jurassic Park fan
 <!--
