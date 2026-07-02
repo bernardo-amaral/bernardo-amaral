@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate status data
 
 on:
   schedule: # execute every 12 hours
