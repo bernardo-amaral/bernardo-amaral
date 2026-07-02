@@ -4,13 +4,16 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - master
 
 permissions:
   contents: write
 
 jobs:
   build:
-    name: Job to update data
+    name: Job to update status data
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
